@@ -1,15 +1,14 @@
 <h1 align="center">Hi there 👋 I'm Feroz</h1>
-<h3 align="center">Aspiring Developer | Tech Enthusiast</h3>
+<h3 align="center">Aspiring AI/ML Practitioner | Tech Enthusiast</h3>
 
 <p align="center">
-  <!-- LOGO PLACEHOLDER - ADD A-G.png TOMORROW -->
   <img src="https://via.placeholder.com/150x150/0D1117/FFFFFF?text=A%E2%80%93G" width="150" alt="Logo coming soon">
 </p>
 
 ---
 
 ## 🔧 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=html,css,js,python,git,github,vscode,react,nodejs&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,numpy,pandas,scipy,torch&theme=dark)
 
 ## 📊 GitHub Stats
 <p align="center">
@@ -29,18 +28,17 @@
 ---
 
 ## 🌱 Currently Learning
-- ✅ Web Development (HTML, CSS, JavaScript)
-- ✅ Python Programming & Automation
-- ✅ Git, GitHub & Version Control
-- ⏳ React & Frontend Frameworks
-- ⏳ Backend Development with Node.js
+- ✅ AI & Machine Learning (Python, NumPy, Pandas, PyTorch)
+- ✅ Applied ML workflows: data processing, modeling, evaluation
+- ✅ Model deployment basics and reproducible experiments
+- ⏳ Deep Learning architectures and practical projects
 
 ## 🔭 Working On
-- Building my GitHub portfolio with meaningful projects
-- Creating coding tutorials and documentation
-- Contributing to open source projects
+- Building small end-to-end ML projects for learning and portfolio
+- Implementing reproducible experiments and clear notebooks
+- Exploring model interpretability and evaluation techniques
 
 ## ⚡ Fun Fact
-I believe in "Learn → Build → Share" cycle. Clean design and clear code are my priorities!
+I follow a "Learn → Experiment → Iterate" approach. I prefer practical, well-tested notebooks over flashy UIs.
 
 ---
