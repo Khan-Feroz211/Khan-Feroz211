@@ -26,6 +26,14 @@
 - AI chatbot design, prompt engineering, and integration workflows.
 - Deployment workflows for reliable web and AI applications.
 
+## Featured Projects
+- [Course-Cursor-bot](https://github.com/Khan-Feroz211/Course-Cursor-bot) - AI assistant workflow project for course and productivity support.
+- [AI-CHATBOT](https://github.com/Khan-Feroz211/AI-CHATBOT) - Chatbot project focused on practical conversational AI implementation.
+- [Work-website](https://github.com/Khan-Feroz211/Work-website) - Personal/project web work showcasing frontend and deployment progress.
+- [Father-Gift](https://github.com/Khan-Feroz211/Father-Gift) - TypeScript-based project with iterative feature delivery.
+- [Nutech-Bus-Route](https://github.com/Khan-Feroz211/Nutech-Bus-Route) - Utility project for route-related information and user convenience.
+- [ICAT-26](https://github.com/Khan-Feroz211/ICAT-26) - AI-focused project work developed as part of ongoing portfolio growth.
+
 ## GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Khan-Feroz211&show_icons=true&theme=radical&hide_border=true" width="48%" />
@@ -37,9 +45,9 @@
 </p>
 
 ## Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-profile)
+[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-9088-7814)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khan-Feroz211)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:208804728+Khan-Feroz211@users.noreply.github.com)
 
 ---
 
