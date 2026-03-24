@@ -2,7 +2,7 @@
 <h3 align="center">Aspiring AI/ML Practitioner | Tech Enthusiast</h3>
 
 <p align="center">
-  <img src="https://via.placeholder.com/150x150/0D1117/FFFFFF?text=A%E2%80%93G" width="150" alt="Logo coming soon">
+  <img src="https://placehold.co/150x150/0D1117/FFFFFF?text=A-G" width="150" alt="Logo coming soon">
 </p>
 
 ---
