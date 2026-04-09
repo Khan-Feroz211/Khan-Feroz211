@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Feroz Khan</h1>
-<h3 align="center">MLOps | AI Chatbots | Web Deployment</h3>
+<h3 align="center">MLOps | AI Chatbots | Android & Web Development | SaaS Builder</h3>
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/ac3eac96-e3c8-42d7-9667-e0f1eec6510c" width="170" alt="Feroz Khan Logo">
@@ -8,31 +8,50 @@
 ---
 
 ## About Me
-- Building practical AI and ML projects with a strong focus on deployment.
-- Working on chatbot systems, model workflows, and production-ready development.
-- Interested in MLOps, reproducibility, and scalable AI application design.
+- Building practical AI, ML, and mobile projects with a strong focus on deployment.
+- Working on chatbot systems, SaaS platforms, real-time apps, and production-ready development.
+- Experienced in Android app development (PWA / React Native) and full-stack TypeScript projects.
+- Interested in MLOps, reproducibility, scalable AI application design, and student-focused EdTech.
 
 ## Current Progress
-- Deployment: actively deploying AI and web projects with production mindset.
-- Chatbots: building and improving conversational AI projects.
+- Deployment: actively deploying AI and web/mobile projects with a production mindset.
+- Android/Mobile: shipping PWA and React Native apps (Nutech-Bus-Route, QARD mobile app).
+- SaaS: building multi-tenant platforms with real-world users and university partnerships.
+- Chatbots: building and improving conversational AI projects with multi-LLM support.
 - Projects: completing end-to-end projects from data to deployment.
 - Engineering habits: improving documentation, testing, and iterative releases.
 
 ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=python,git,github,vscode,numpy,pandas,scipy,torch,aws,docker,kubernetes,fastapi&theme=dark)
+![My Skills](https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,nodejs,git,github,vscode,numpy,pandas,docker,kubernetes,aws&theme=dark)
+
+> Also working with: React Native · Socket.io · PostgreSQL · Redis · Tailwind CSS · NextAuth.js · Prisma · MLflow
 
 ## Focus Areas
 - MLOps pipelines and model lifecycle practices.
-- AI chatbot design, prompt engineering, and integration workflows.
-- Deployment workflows for reliable web and AI applications.
+- AI chatbot design, prompt engineering, and multi-LLM integration workflows.
+- Android & mobile development using PWA (Service Worker) and React Native.
+- Full-stack SaaS platforms with multi-tenancy, real-time features, and production infra.
+- Deployment workflows for reliable web, mobile, and AI applications.
 
 ## Featured Projects
-- [Course-Cursor-bot](https://github.com/Khan-Feroz211/Course-Cursor-bot) - AI assistant workflow project for course and productivity support.
-- [AI-CHATBOT](https://github.com/Khan-Feroz211/AI-CHATBOT) - Chatbot project focused on practical conversational AI implementation.
-- [Work-website](https://github.com/Khan-Feroz211/Work-website) - Personal/project web work showcasing frontend and deployment progress.
-- [Father-Gift](https://github.com/Khan-Feroz211/Father-Gift) - TypeScript-based project with iterative feature delivery.
-- [Nutech-Bus-Route](https://github.com/Khan-Feroz211/Nutech-Bus-Route) - Utility project for route-related information and user convenience.
-- [ICAT-26](https://github.com/Khan-Feroz211/ICAT-26) - AI-focused project work developed as part of ongoing portfolio growth.
+
+### 🚌 Android / Mobile
+- [Nutech-Bus-Route](https://github.com/Khan-Feroz211/Nutech-Bus-Route) — Real-time bus tracking SaaS for NUTECH University. Built with **Next.js 14 + TypeScript**, Socket.io live GPS, Google Maps, multi-role auth (Student / Driver / Admin), and shipped as an installable **PWA (Android)**. Includes push notifications, timetables for 4 routes, and a full driver + admin portal.
+
+### 🤖 AI & Chatbots
+- [EliteCSS-AI](https://github.com/Khan-Feroz211/EliteCSS-AI) — Multi-LLM chatbot for Pakistan CSS exam preparation. Powered by GPT-4o-mini, Claude, and Gemini with **FastAPI** backend, **React** frontend, JWT auth, SSE streaming, MLflow observability, and a full Docker Compose setup.
+- [AI-CHATBOT](https://github.com/Khan-Feroz211/AI-CHATBOT) — AI-powered project assistant chatbot with vibrant UI for task management, notes, and coding help.
+- [Course-Cursor-bot](https://github.com/Khan-Feroz211/Course-Cursor-bot) — AI assistant workflow project for course search and productivity support.
+- [MyCyber-Project](https://github.com/Khan-Feroz211/MyCyber-Project) — Cybersecurity-focused Python project exploring practical security tooling.
+
+### 🪪 SaaS Platforms
+- [QARD](https://github.com/Khan-Feroz211/QARD) — Pakistan's first virtual student ID platform. **FastAPI** multi-tenant backend, **React Native** iOS/Android app, React admin portal, PostgreSQL, Redis, Stripe + JazzCash payments, Firebase FCM, Kubernetes infra, and MLflow integration.
+- [PAISA-TRACK](https://github.com/Khan-Feroz211/PAISA-TRACK) — Expense tracker built for hostelites to manage and monitor daily finances.
+
+### 🌐 Web & Other Projects
+- [Father-Gift](https://github.com/Khan-Feroz211/Father-Gift) — TypeScript-based personal utility project with iterative feature delivery.
+- [Work-website](https://github.com/Khan-Feroz211/Work-website) — Web project showcasing frontend and deployment progress.
+- [ICAT-26](https://github.com/Khan-Feroz211/ICAT-26) — AI-focused project developed as part of ongoing portfolio growth.
 
 ## GitHub Stats
 <p align="center">
