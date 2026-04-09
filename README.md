@@ -22,9 +22,13 @@
 - Engineering habits: improving documentation, testing, and iterative releases.
 
 ## Tech Stack
-![My Skills](https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,nodejs,git,github,vscode,numpy,pandas,docker,kubernetes,aws&theme=dark)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,typescript,react,nextjs,fastapi,nodejs,git,github,vscode,numpy,pandas,docker,kubernetes,aws&theme=dark" />
+</p>
 
-> Also working with: React Native · Socket.io · PostgreSQL · Redis · Tailwind CSS · NextAuth.js · Prisma · MLflow
+<p align="center">
+  Also working with: React Native · Socket.io · PostgreSQL · Redis · Tailwind CSS · NextAuth.js · Prisma · MLflow
+</p>
 
 ## Focus Areas
 - MLOps pipelines and model lifecycle practices.
