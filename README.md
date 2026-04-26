@@ -120,6 +120,16 @@ If you need someone who can take an idea from zero to production and keep it run
   <img src="https://streak-stats.demolab.com/?user=Khan-Feroz211&theme=radical&hide_border=true" width="90%" />
 </p>
 
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khan-Feroz211/Khan-Feroz211/output/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khan-Feroz211/Khan-Feroz211/output/github-snake.svg" />
+    <img alt="github-snake" src="https://raw.githubusercontent.com/Khan-Feroz211/Khan-Feroz211/output/github-snake.svg" />
+  </picture>
+</p>
+
 ---
 
 ## 🤝 Let's Connect
