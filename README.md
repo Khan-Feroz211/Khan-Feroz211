@@ -180,16 +180,6 @@ One-line description of what the project does and your role in building it.
 
 <br/>
 
-### `$ ./trophies --columns 7`
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Khan-Feroz211&theme=dracula&column=7&margin-w=8&margin-h=8&no-frame=true&title=Commits,Stars,Followers,PullRequest,Issues,Repositories,MultipleYears" />
-
-</div>
-
-<br/>
-
 ### `$ ./activity-graph --render`
 
 <div align="center">
