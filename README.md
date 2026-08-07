@@ -1,148 +1,251 @@
-<h1 align="center">Feroz Khan — I ship products that scale.</h1>
-<h3 align="center">MLOps · SaaS Builder · Full-Stack · AI/LLM Systems</h3>
-
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ac3eac96-e3c8-42d7-9667-e0f1eec6510c" width="170" alt="Feroz Khan Logo">
-</p>
-
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&height=200&color=0:0D1117,50:7C2D12,100:F97316&text=FEROZ%20KHAN&fontColor=FDBA74&fontSize=56&fontAlignY=40&desc=AI%20Engineer%20%C2%B7%20Full-Stack%20%C2%B7%20MLOps%20%C2%B7%20SaaS%20Builder&descAlignY=62&descSize=18&descColor=E6EDF3&animation=fadeIn" width="100%"/>
+<a href="https://khan-feroz211.github.io/portfolio/">
+<img src="https://readme-typing-svg.demolab.com/?lines=%24+whoami&font=Fira+Code&size=22&duration=2000&pause=500&color=F97316&center=true&vCenter=true&width=600&height=30&separator=false" />
+<img src="https://readme-typing-svg.demolab.com/?lines=AI+Engineer+%26+Full-Stack+Developer+%40+NUTECH;Shipping+FastAPI+%2B+Claude+API+production+systems;500%2B+students+%C2%B7+8%2B+AI+workflows+%C2%B7+35%2B+repos;Currently%3A+RAG+pipelines+%2B+multi-tenant+SaaS&font=Fira+Code&size=18&duration=2800&pause=1000&color=FDBA74&center=true&vCenter=true&width=650&multiline=true&height=110&separator=false" />
+</a>
+</div>
+<div align="center">
+![Degree](https://img.shields.io/badge/CS_Student-NUTECH-0D1117?style=flat-square&labelColor=F97316&color=0D1117)
+![Location](https://img.shields.io/badge/Location-Islamabad,_Pakistan-0D1117?style=flat-square&labelColor=F97316&color=0D1117)
+![Grad](https://img.shields.io/badge/Graduating-Dec_2028-0D1117?style=flat-square&labelColor=F97316&color=0D1117)
+ 
+</div>
+<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=F97316&labelColor=0D1117)](https://khan-feroz211.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F97316&labelColor=0D1117)](https://www.linkedin.com/in/feroz-udin)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F97316&labelColor=0D1117)](mailto:f24605023@nutech.edu.pk)
+[![GitHub](https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F97316&labelColor=0D1117)](https://github.com/Khan-Feroz211)
+ 
+</div>
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=Khan-Feroz211&color=F97316&style=flat-square&label=PROFILE+VIEWS)
+![Followers](https://img.shields.io/github/followers/Khan-Feroz211?style=flat-square&color=F97316&labelColor=0D1117&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/Khan-Feroz211?style=flat-square&color=F97316&labelColor=0D1117&label=STARS)
+ 
+</div>
 ---
-
-MLOps engineer and SaaS builder turning ideas into production systems with real users, real metrics, and real impact — **35+ repositories · 451 contributions in the last year**.
-
+ 
+### `$ cat about.md`
+ 
+I'm an AI Engineer and Full-Stack Developer building production backend and LLM systems — not classroom projects. I design FastAPI backends and Claude API-powered automation that real users depend on, and I think in systems: pipelines, deployment, observability, and growth, not just code.
+ 
+```bash
+ROLE     = "AI Engineer & Full-Stack Developer"
+EXP      = "6 months industry (ADRAK Digital) + 2 years shipping production SaaS"
+DOMAIN   = ["EdTech", "MLOps", "Automation / n8n", "Fintech-adjacent (payments)"]
+STACK    = ["Python", "FastAPI", "TypeScript", "React/React Native", "Next.js", "PostgreSQL"]
+OPEN_TO  = ["Senior/Lead roles", "Founding Engineer", "AI/ML internships", "SaaS collaborations"]
+```
+ 
 ---
-
-## 🚀 Current Progress
-- 🪪 Scaling **QARD** to more universities — targeting **10+ institutions** and **1,000+ active students**
-- 🤖 Expanding **EliteCSS-AI** with RAG pipelines and a fine-tuned model for Pakistani exam content
-- 🚌 Hardening **Nutech-Bus-Route** real-time infra for peak-load reliability
-- 📦 Deepening MLOps practices: experiment tracking, model versioning, and CI/CD for ML pipelines
-
+ 
+### `$ ls tech-stack/`
+ 
+**Languages & Core**
+ 
+![](https://skillicons.dev/icons?i=py,ts,js,fastapi,react,nextjs&theme=dark)
+ 
+**Infra, Data & Tools**
+ 
+![](https://skillicons.dev/icons?i=docker,kubernetes,postgres,redis,firebase,git&theme=dark)
+ 
+**Specializations:** `MLflow` `MLOps Pipelines` `React Native` `Socket.io` `Prisma` `Tailwind CSS` `NextAuth.js` `Firebase FCM` `Stripe` `n8n` `Claude API` `RAG Pipelines`
+ 
+**Currently learning:** `LLM fine-tuning` `RAG architectures` `Advanced Kubernetes operators` `Distributed tracing`
+ 
 ---
-
-## ⭐ Featured Projects
-
-### 🪪 [QARD](https://github.com/Khan-Feroz211/QARD) — Virtual Student ID Platform
-> **500+ students** across **5+ universities** using verified digital IDs · **50+ ID requests/week**
-
-Pakistan's first multi-tenant virtual student ID SaaS. Students get verified digital IDs on their phones; universities get a full admin portal.
-- **Impact:** Eliminated physical ID queues for thousands of students across multiple campuses
-- **Stack:** FastAPI · React Native (iOS/Android) · React admin portal · PostgreSQL · Redis · Stripe + JazzCash · Firebase FCM
-- **Infra:** Deployed on **Kubernetes** · **99.5% uptime** · auto-scaling · MLflow observability
-
+ 
+### `$ cat specialties.md`
+ 
+![AI/LLM Systems](https://img.shields.io/badge/AI%2FLLM_Systems-0D1117?style=flat-square&labelColor=0D1117&color=F97316)
+![MLOps](https://img.shields.io/badge/MLOps-0D1117?style=flat-square&labelColor=0D1117&color=F97316)
+![RAG Pipelines](https://img.shields.io/badge/RAG_Pipelines-0D1117?style=flat-square&labelColor=0D1117&color=F97316)
+![Backend Engineering](https://img.shields.io/badge/Backend_Engineering-0D1117?style=flat-square&labelColor=0D1117&color=F97316)
+![Automation](https://img.shields.io/badge/Automation_(n8n)-0D1117?style=flat-square&labelColor=0D1117&color=F97316)
+![Multi-tenant SaaS](https://img.shields.io/badge/Multi--tenant_SaaS-0D1117?style=flat-square&labelColor=0D1117&color=F97316)
+ 
 ---
-
-### 🤖 [EliteCSS-AI](https://github.com/Khan-Feroz211/EliteCSS-AI) — Multi-LLM Exam Prep Chatbot
-> **3 LLMs** (GPT-4o-mini, Claude, Gemini) unified in one interface · real-time SSE streaming
-
-Pakistan's first AI chatbot purpose-built for CSS competitive exam preparation.
-- **Impact:** Gives students 24/7 access to expert-level guidance previously locked behind expensive coaching
-- **Stack:** FastAPI · React · JWT auth · MLflow · Docker Compose
-- **Infra:** Containerised full-stack · observable with MLflow · handles **50+ concurrent users**
-
+ 
+### `$ cat expertise.md`
+ 
+| Domain | Proficiency | Details |
+|---|:---:|---|
+| AI/LLM Integration | ●●●●○ | Claude API, multi-model routing (GPT-4o-mini/Claude/Gemini), prompt engineering, RAG |
+| Backend Engineering | ●●●●● | FastAPI, PostgreSQL, REST APIs, OAuth 2.0/JWT, sub-100ms latency at 10K+ req/day |
+| Automation (n8n) | ●●●●○ | 8+ production AI workflows, 10K+ monthly transactions, zero failures |
+| Real-Time Systems | ●●●●○ | Socket.io, WebSockets, live GPS tracking, sub-second updates |
+| Mobile / PWA | ●●●○○ | React Native (iOS/Android), offline-first installable PWAs |
+| MLOps | ●●●○○ | Experiment tracking, model versioning, MLflow observability, CI/CD for ML |
+ 
 ---
-
-### 🚌 [Nutech-Bus-Route](https://github.com/Khan-Feroz211/Nutech-Bus-Route) — Real-Time Campus Bus Tracking
-> **4 bus routes** · live GPS for **entire NUTECH University fleet** · installable Android PWA
-
-Solved the "where is my bus?" problem for a full university campus with a real-time SaaS platform.
-- **Impact:** Students, drivers, and admins all on one platform — push notifications replace WhatsApp chaos
-- **Stack:** Next.js 14 · TypeScript · Socket.io live GPS · Google Maps · multi-role auth · NextAuth.js
-- **Infra:** Deployed as installable **PWA (Android)** · sub-second location updates via WebSockets
-
+ 
+### `$ ./featured-projects.sh`
+ 
+<details open>
+<summary><b>🪪 QARD — Virtual Student ID Platform</b></summary>
+<br>
+Pakistan's first multi-tenant virtual student ID SaaS. Students get verified digital IDs on their phones; universities get a full admin portal. Eliminated physical ID queues for thousands of students across multiple campuses.
+ 
+| | |
+|---|---|
+| **Stack** | FastAPI · React Native (iOS/Android) · React admin portal · PostgreSQL · Redis · Stripe + JazzCash · Firebase FCM |
+| **Scale** | 500+ students · 5+ universities · 50+ ID requests/week |
+| **Infra** | Kubernetes · 99.5% uptime · auto-scaling · MLflow observability |
+| **Impact** | Eliminated physical ID queues campus-wide |
+ 
+</details>
+<details>
+<summary><b>🤖 EliteCSS-AI — Multi-LLM Exam Prep Chatbot</b></summary>
+<br>
+Pakistan's first AI chatbot purpose-built for CSS competitive exam preparation, unifying three LLMs behind one interface with real-time SSE streaming.
+ 
+| | |
+|---|---|
+| **Stack** | FastAPI · React · JWT auth · MLflow · Docker Compose |
+| **Scale** | 3 LLMs (GPT-4o-mini, Claude, Gemini) · 50+ concurrent users |
+| **Infra** | Fully containerized, observable via MLflow |
+| **Impact** | 24/7 expert-level guidance previously locked behind expensive coaching |
+ 
+</details>
+<details>
+<summary><b>🚌 Nutech-Bus-Route — Real-Time Campus Bus Tracking</b></summary>
+<br>
+Solved the "where is my bus?" problem for a full university campus with a real-time SaaS platform — students, drivers, and admins on one system.
+ 
+| | |
+|---|---|
+| **Stack** | Next.js 14 · TypeScript · Socket.io · Google Maps · NextAuth.js · multi-role auth |
+| **Scale** | 4 bus routes · full NUTECH fleet · live GPS |
+| **Infra** | Installable Android PWA · sub-second WebSocket updates |
+| **Impact** | Push notifications replaced WhatsApp chaos for the whole campus |
+ 
+</details>
+<details>
+<summary><b>💸 PAISA-TRACK — Student Finance Manager</b></summary>
+<br>
+Personal finance tracker built for hostelites — daily expense logging and monthly insights.
+ 
+| | |
+|---|---|
+| **Stack** | Full-stack personal project |
+| **Focus** | Daily expense logging, monthly spending insights |
+| **Impact** | Built for real hostel-living budget constraints |
+ 
+</details>
 ---
-
-### 💸 [PAISA-TRACK](https://github.com/Khan-Feroz211/PAISA-TRACK) — Student Finance Manager
-> Personal finance tracker built for hostelites — daily expense logging and monthly insights
-
+ 
+### `$ tail -f experience.log`
+ 
+**AI-Automation & Backend Developer** · ADRAK Digital
+`Jan 2026 – Jun 2026 · Islamabad · 6 months`
+ 
+- Engineered 8+ AI-powered automation workflows using Claude API + n8n, cutting manual data processing by 70% for enterprise clients
+- Built 5+ production FastAPI backends handling 10,000+ daily requests at <100ms average latency, 99.9% uptime
+- Built RAG systems for client knowledge bases, reducing support queries by 45%; secured production systems with OAuth 2.0, JWT, PostgreSQL
+- Led full-stack delivery end-to-end (requirements → architecture → deployment) across 3+ enterprise clients, 100% on-time
+- Promoted to core technical resource after 4 months
+`Tags:` ![](https://img.shields.io/badge/-Python-0D1117?style=flat-square&color=F97316) ![](https://img.shields.io/badge/-FastAPI-0D1117?style=flat-square&color=F97316) ![](https://img.shields.io/badge/-Claude_API-0D1117?style=flat-square&color=F97316) ![](https://img.shields.io/badge/-n8n-0D1117?style=flat-square&color=F97316) ![](https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&color=F97316) ![](https://img.shields.io/badge/-Docker-0D1117?style=flat-square&color=F97316)
+ 
 ---
-
-## 📊 Impact at a Glance
-
+ 
+### `$ cat achievements.md`
+ 
+<div align="center">
 | Metric | Number |
-|--------|--------|
-| Students reached | **500+** |
-| Universities onboarded | **5+** |
-| Weekly ID requests processed | **50+** |
-| GitHub contributions (last year) | **451** |
-| Production repositories | **35+** |
-| QARD uptime | **99.5%** |
-| Concurrent users handled | **50+** |
-
+|---|:---:|
+| Students reached | 500+ |
+| Universities onboarded | 5+ |
+| Weekly ID requests processed | 50+ |
+| GitHub contributions (last year) | 451 |
+| Production repositories | 35+ |
+| QARD uptime | 99.5% |
+| Manual work reduced (ADRAK clients) | 70% |
+| Daily API requests handled | 10,000+ |
+| Support queries reduced via RAG | 45% |
+ 
+</div>
 ---
-
-## 🛠 Tech Stack
-
-**Languages**
-<p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript&theme=dark" />
-</p>
-
-**Frameworks & Infra**
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,fastapi,nodejs,docker,kubernetes,aws,postgresql,redis,git&theme=dark" />
-</p>
-
-**Specialisations:** MLflow · MLOps pipelines · React Native · Socket.io · Prisma · Tailwind CSS · NextAuth.js · Firebase FCM · Stripe
-
-**Currently Learning:** LLM fine-tuning · RAG architectures · advanced Kubernetes operators · distributed tracing
-
+ 
+### `$ cat education.md`
+ 
+[![NUTECH](https://img.shields.io/badge/National_University_of_Technology-BS_Computer_Science-0D1117?style=for-the-badge&labelColor=0D1117&color=F97316)](https://khan-feroz211.github.io/portfolio/)
+ 
+`Sept 2024 – Dec 2028 (expected)`
+ 
 ---
-
-## 🎯 Focus Areas
-- **MLOps:** experiment tracking, model versioning, reproducible pipelines, and CI/CD for ML
-- **LLM Systems:** multi-model routing, prompt engineering, RAG, and observability
-- **SaaS Architecture:** multi-tenancy, real-time features, payment integrations, and production infra
-- **Mobile:** React Native and PWA apps with offline-first design
-
+ 
+### `$ ./github-analytics.sh`
+ 
+<div align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=Khan-Feroz211&show_icons=true&theme=transparent&hide_border=true&title_color=F97316&icon_color=F97316&text_color=E6EDF3&bg_color=00000000" width="49%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khan-Feroz211&theme=transparent&hide_border=true&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=E6EDF3&currStreakNum=E6EDF3&sideNums=E6EDF3&dates=FDBA74&background=00000000" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khan-Feroz211&layout=compact&theme=transparent&hide_border=true&title_color=F97316&text_color=E6EDF3&bg_color=00000000" width="49%"/>
+</div>
 ---
-
-## ✍️ Writing & Content
-
-*Coming soon — articles on MLOps patterns, SaaS architecture, and shipping AI products in emerging markets.*
-
+ 
+### `$ ./trophies.sh`
+ 
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Khan-Feroz211&theme=onedark&no-frame=true&no-bg=true&column=7&row=1" width="100%"/>
+</div>
 ---
-
-## 💡 Why Me
-
-I don't just build features — I **ship products that scale**. Every project has real users, real metrics, and real infrastructure. I think in systems: data pipelines, deployment, observability, and growth — not just code.
-
-If you need someone who can take an idea from zero to production and keep it running, let's talk.
-
+ 
+### `$ ./activity-graph.sh`
+ 
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khan-Feroz211&bg_color=00000000&color=F97316&line=F97316&point=FDBA74&hide_border=true&area=true" width="100%"/>
+</div>
 ---
-
-## 📈 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Khan-Feroz211&show_icons=true&theme=radical&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khan-Feroz211&layout=compact&theme=radical&hide_border=true" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Khan-Feroz211&theme=radical&hide_border=true" width="90%" />
-</p>
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Khan-Feroz211/Khan-Feroz211/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Khan-Feroz211/Khan-Feroz211/output/github-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/Khan-Feroz211/Khan-Feroz211/output/github-snake.svg" />
-  </picture>
-</p>
-
+ 
+### `$ ./profile-summary.sh`
+ 
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khan-Feroz211&theme=github_dark" width="100%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khan-Feroz211&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khan-Feroz211&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khan-Feroz211&theme=github_dark" width="49%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khan-Feroz211&theme=github_dark&utcOffset=5" width="49%"/>
+</div>
 ---
-
-## 🤝 Let's Connect
-
-Open to **senior/lead roles**, **founding engineer opportunities**, and **SaaS/AI collaborations**.
-
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923108311917)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/feroz-u-din-26648839b/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ferozkhan@outlook.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://khan-feroz211.github.io/portfolio/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0009-0006-9088-7814)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Khan-Feroz211)
-
+ 
+<div align="center">
+<img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+</div>
 ---
-
+ 
+### `$ cat current-focus.yaml`
+ 
+```yaml
+building:
+  - QARD: scaling to 10+ universities, 1,000+ active students
+  - EliteCSS-AI: RAG pipelines + fine-tuned model for Pakistani exam content
+  - Nutech-Bus-Route: hardening real-time infra for peak-load reliability
+learning:
+  - LLM fine-tuning
+  - RAG evaluation methods
+  - advanced Kubernetes operators
+  - distributed tracing
+exploring:
+  - agentic workflow reliability as a research interest
+open_to:
+  - Software / AI Engineering internships
+  - Full-time AI/ML or full-stack roles
+  - Freelance backend + automation contracts
+  - Research collaboration on LLM systems
+```
+ 
+---
+ 
+### `$ ./connect.sh`
+ 
+<div align="center">
+[![Portfolio](https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=F97316&labelColor=0D1117)](https://khan-feroz211.github.io/portfolio/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F97316&labelColor=0D1117)](https://www.linkedin.com/in/feroz-udin)
+[![Email](https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F97316&labelColor=0D1117)](mailto:f24605023@nutech.edu.pk)
+ 
 *Build → Deploy → Measure → Repeat.*
+ 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&color=0:F97316,100:0D1117&section=footer" width="100%"/>
+</div>
+ 
