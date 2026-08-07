@@ -6,28 +6,32 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:F97316&height=220&section=header&text=Feroz%20U%20Din&fontSize=48&fontColor=E6EDF3&desc=AI%20Engineer%20%26%20Full-Stack%20Developer&descSize=18&descAlignY=62&animation=fadeIn" />
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:0D1117,100:F97316&height=220&section=header&text=Feroz%20U%20Din&fontSize=48&fontColor=E6EDF3&desc=AI%20Engineer%20and%20Full-Stack%20Developer&descSize=18&descAlignY=62&animation=fadeIn" />
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=20&duration=3000&pause=800&color=F97316&background=0D1117&center=true&vCenter=true&width=680&lines=%24+whoami+%E2%86%92+AI+Engineer+%26+Full-Stack+Dev;%24+stack+%E2%86%92+FastAPI+%2B+TypeScript+%2B+Claude+API;%24+focus+%E2%86%92+LLM%2FRAG+Systems+%2B+n8n+Automation;%24+status+%E2%86%92+Open+to+Internships+%26+AI%2FML+Roles" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&amp;size=20&amp;duration=3000&amp;pause=800&amp;color=F97316&amp;background=0D1117&amp;center=true&amp;vCenter=true&amp;width=680&amp;lines=%24+whoami+%E2%86%92+AI+Engineer+and+Full-Stack+Dev;%24+stack+%E2%86%92+FastAPI+%2B+TypeScript+%2B+Claude+API;%24+focus+%E2%86%92+LLM%2FRAG+Systems+%2B+n8n+Automation;%24+status+%E2%86%92+Open+to+Internships+and+AI%2FML+Roles" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://img.shields.io/badge/CS_Student-NUTECH-0D1117?style=flat-square&labelColor=F97316&color=0D1117" alt="Degree"/>
-<img src="https://img.shields.io/badge/Location-Islamabad,_Pakistan-0D1117?style=flat-square&labelColor=F97316&color=0D1117" alt="Location"/>
-<img src="https://img.shields.io/badge/Graduating-Dec_2028-0D1117?style=flat-square&labelColor=F97316&color=0D1117" alt="Grad"/>
+**Feroz U Din — AI Engineer and Full Stack Developer**
+
+<br/>
+
+<img src="https://img.shields.io/badge/CS_Student-NUTECH-0D1117?style=flat-square&amp;labelColor=F97316&amp;color=0D1117" alt="Degree"/>
+<img src="https://img.shields.io/badge/Location-Islamabad,_Pakistan-0D1117?style=flat-square&amp;labelColor=F97316&amp;color=0D1117" alt="Location"/>
+<img src="https://img.shields.io/badge/Graduating-Dec_2028-0D1117?style=flat-square&amp;labelColor=F97316&amp;color=0D1117" alt="Grad"/>
 
 <br/><br/>
 
-<a href="https://khan-feroz211.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=F97316&labelColor=0D1117" /></a>
-<a href="https://www.linkedin.com/in/feroz-udin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F97316&labelColor=0D1117" /></a>
-<a href="https://github.com/Khan-Feroz211"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F97316&labelColor=0D1117" /></a>
-<a href="mailto:f24605023@nutech.edu.pk"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F97316&labelColor=0D1117" /></a>
+<a href="https://khan-feroz211.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=F97316&amp;labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/feroz-udin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F97316&amp;labelColor=0D1117" /></a>
+<a href="https://github.com/Khan-Feroz211"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=F97316&amp;labelColor=0D1117" /></a>
+<a href="mailto:f24605023@nutech.edu.pk"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=F97316&amp;labelColor=0D1117" /></a>
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=Khan-Feroz211&color=F97316&style=flat-square&label=PROFILE+VIEWS" />
-<img src="https://img.shields.io/github/followers/Khan-Feroz211?style=flat-square&color=F97316&labelColor=0D1117&label=FOLLOWERS" />
-<img src="https://img.shields.io/github/stars/Khan-Feroz211?style=flat-square&color=F97316&labelColor=0D1117&label=STARS" />
+<img src="https://komarev.com/ghpvc/?username=Khan-Feroz211&amp;color=F97316&amp;style=flat-square&amp;label=PROFILE+VIEWS" />
+<img src="https://img.shields.io/github/followers/Khan-Feroz211?style=flat-square&amp;color=F97316&amp;labelColor=0D1117&amp;label=FOLLOWERS" />
+<img src="https://img.shields.io/github/stars/Khan-Feroz211?style=flat-square&amp;color=F97316&amp;labelColor=0D1117&amp;label=STARS" />
 
 </div>
 
@@ -51,20 +55,20 @@ OPEN_TO  : SWE/AI Engineering internships, full-time AI/ML or full-stack roles,
 ### `$ tech-stack --list`
 
 **Languages & Backend**
-<img src="https://skillicons.dev/icons?i=python,ts,fastapi,postgres,docker&theme=dark" />
+<img src="https://skillicons.dev/icons?i=python,ts,fastapi,postgres,docker&amp;theme=dark" />
 
 **AI / Automation / Tools**
-<img src="https://skillicons.dev/icons?i=linux,aws,gcp,postman,github,git&theme=dark" />
+<img src="https://skillicons.dev/icons?i=linux,aws,gcp,postman,github,git&amp;theme=dark" />
 
 <br/>
 
 ### `$ specialties --show`
 
-<img src="https://img.shields.io/badge/AI%2FLLM_Integration-0D1117?style=for-the-badge&labelColor=F97316&color=0D1117" />
-<img src="https://img.shields.io/badge/RAG_Systems-0D1117?style=for-the-badge&labelColor=F97316&color=0D1117" />
-<img src="https://img.shields.io/badge/Backend_Engineering-0D1117?style=for-the-badge&labelColor=F97316&color=0D1117" />
-<img src="https://img.shields.io/badge/Workflow_Automation-0D1117?style=for-the-badge&labelColor=F97316&color=0D1117" />
-<img src="https://img.shields.io/badge/Auth_%26_Security-0D1117?style=for-the-badge&labelColor=F97316&color=0D1117" />
+<img src="https://img.shields.io/badge/AI%2FLLM_Integration-0D1117?style=for-the-badge&amp;labelColor=F97316&amp;color=0D1117" />
+<img src="https://img.shields.io/badge/RAG_Systems-0D1117?style=for-the-badge&amp;labelColor=F97316&amp;color=0D1117" />
+<img src="https://img.shields.io/badge/Backend_Engineering-0D1117?style=for-the-badge&amp;labelColor=F97316&amp;color=0D1117" />
+<img src="https://img.shields.io/badge/Workflow_Automation-0D1117?style=for-the-badge&amp;labelColor=F97316&amp;color=0D1117" />
+<img src="https://img.shields.io/badge/Auth_%26_Security-0D1117?style=for-the-badge&amp;labelColor=F97316&amp;color=0D1117" />
 
 <br/>
 
@@ -113,12 +117,12 @@ One-line description of what the project does and your role in building it.
 - Implemented OAuth 2.0 authentication and JWT token management; optimized PostgreSQL with connection pooling for scale
 - Led full-stack delivery end-to-end (requirements → architecture → deployment) across 3+ enterprise clients; promoted to core technical resource after 4 months
 
-<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&labelColor=F97316&color=0D1117" />
-<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&labelColor=F97316&color=0D1117" />
-<img src="https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&labelColor=F97316&color=0D1117" />
-<img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&labelColor=F97316&color=0D1117" />
-<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&labelColor=F97316&color=0D1117" />
-<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&labelColor=F97316&color=0D1117" />
+<img src="https://img.shields.io/badge/Python-0D1117?style=flat-square&amp;labelColor=F97316&amp;color=0D1117" />
+<img src="https://img.shields.io/badge/FastAPI-0D1117?style=flat-square&amp;labelColor=F97316&amp;color=0D1117" />
+<img src="https://img.shields.io/badge/Claude_API-0D1117?style=flat-square&amp;labelColor=F97316&amp;color=0D1117" />
+<img src="https://img.shields.io/badge/n8n-0D1117?style=flat-square&amp;labelColor=F97316&amp;color=0D1117" />
+<img src="https://img.shields.io/badge/PostgreSQL-0D1117?style=flat-square&amp;labelColor=F97316&amp;color=0D1117" />
+<img src="https://img.shields.io/badge/Docker-0D1117?style=flat-square&amp;labelColor=F97316&amp;color=0D1117" />
 
 </details>
 
@@ -146,7 +150,7 @@ One-line description of what the project does and your role in building it.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/BS_Computer_Science-NUTECH-0D1117?style=for-the-badge&labelColor=F97316&color=0D1117" />
+<img src="https://img.shields.io/badge/BS_Computer_Science-NUTECH-0D1117?style=for-the-badge&amp;labelColor=F97316&amp;color=0D1117" />
 <br/>
 <sub>National University of Technology (NUTECH) · Sept 2024 – Dec 2028</sub>
 
@@ -170,11 +174,11 @@ One-line description of what the project does and your role in building it.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Khan-Feroz211&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=F97316&icon_color=F97316&text_color=E6EDF3" />
+<img src="https://github-readme-stats.vercel.app/api?username=Khan-Feroz211&amp;show_icons=true&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F97316&amp;icon_color=F97316&amp;text_color=E6EDF3" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khan-Feroz211&theme=dark&hide_border=true&background=0D1117&ring=F97316&fire=F97316&currStreakLabel=F97316&sideLabels=E6EDF3&sideNums=E6EDF3&dates=E6EDF3" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Khan-Feroz211&amp;theme=dark&amp;hide_border=true&amp;background=0D1117&amp;ring=F97316&amp;fire=F97316&amp;currStreakLabel=F97316&amp;sideLabels=E6EDF3&amp;sideNums=E6EDF3&amp;dates=E6EDF3" />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khan-Feroz211&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=F97316&text_color=E6EDF3" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Khan-Feroz211&amp;layout=compact&amp;theme=dark&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=F97316&amp;text_color=E6EDF3" />
 
 </div>
 
@@ -184,7 +188,7 @@ One-line description of what the project does and your role in building it.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khan-Feroz211&bg_color=0D1117&color=F97316&line=F97316&point=E6EDF3&area=true&hide_border=true" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Khan-Feroz211&amp;bg_color=0D1117&amp;color=F97316&amp;line=F97316&amp;point=E6EDF3&amp;area=true&amp;hide_border=true" />
 
 </div>
 
@@ -194,13 +198,13 @@ One-line description of what the project does and your role in building it.
 
 <div align="center">
 
-<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khan-Feroz211&theme=github_dark" />
+<img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Khan-Feroz211&amp;theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khan-Feroz211&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khan-Feroz211&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Khan-Feroz211&amp;theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Khan-Feroz211&amp;theme=github_dark" />
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khan-Feroz211&theme=github_dark" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khan-Feroz211&theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Khan-Feroz211&amp;theme=github_dark" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Khan-Feroz211&amp;theme=github_dark" />
 
 </div>
 
@@ -238,10 +242,10 @@ open_to:
 
 <div align="center">
 
-<a href="https://khan-feroz211.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=F97316&labelColor=0D1117" /></a>
-<a href="https://www.linkedin.com/in/feroz-udin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=F97316&labelColor=0D1117" /></a>
-<a href="https://github.com/Khan-Feroz211"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=F97316&labelColor=0D1117" /></a>
-<a href="mailto:f24605023@nutech.edu.pk"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=F97316&labelColor=0D1117" /></a>
+<a href="https://khan-feroz211.github.io/portfolio/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&amp;logo=googlechrome&amp;logoColor=F97316&amp;labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/feroz-udin"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&amp;logo=linkedin&amp;logoColor=F97316&amp;labelColor=0D1117" /></a>
+<a href="https://github.com/Khan-Feroz211"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&amp;logo=github&amp;logoColor=F97316&amp;labelColor=0D1117" /></a>
+<a href="mailto:f24605023@nutech.edu.pk"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&amp;logo=gmail&amp;logoColor=F97316&amp;labelColor=0D1117" /></a>
 
 <br/><br/>
 
@@ -249,8 +253,8 @@ open_to:
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Feroz_U_Din-0D1117?style=for-the-badge&labelColor=F97316&color=0D1117" />
-<img src="https://img.shields.io/badge/AI_Engineer-0D1117?style=for-the-badge&labelColor=F97316&color=0D1117" />
+<img src="https://img.shields.io/badge/Feroz_U_Din-0D1117?style=for-the-badge&amp;labelColor=F97316&amp;color=0D1117" />
+<img src="https://img.shields.io/badge/AI_Engineer-0D1117?style=for-the-badge&amp;labelColor=F97316&amp;color=0D1117" />
 
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F97316,100:0D1117&height=100&section=footer" />
 
