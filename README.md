@@ -257,6 +257,11 @@ open_to:
 
 <i>"Build → Deploy → Measure → Repeat."</i>
 
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Feroz_U_Din-0D1117?style=for-the-badge&labelColor=F97316&color=0D1117" />
+<img src="https://img.shields.io/badge/AI_Engineer-0D1117?style=for-the-badge&labelColor=F97316&color=0D1117" />
+
 <img src="https://capsule-render.vercel.app/api?type=soft&color=0:F97316,100:0D1117&height=100&section=footer" />
 
 </div>
